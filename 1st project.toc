@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Summary}{3}% 
+\contentsline {section}{\numberline {2}Introduction}{3}% 
+\contentsline {subsection}{\numberline {2.1}Numerical Variable}{3}% 
+\contentsline {subsection}{\numberline {2.2}Sample}{3}% 
+\contentsline {section}{\numberline {3}Methods}{3}% 
+\contentsline {section}{\numberline {4}Results and Discussions}{4}% 
+\contentsline {subsection}{\numberline {4.1}Numerical Variable}{4}% 
+\contentsline {subsection}{\numberline {4.2}Categorical Variable}{5}% 
+\contentsline {subsection}{\numberline {4.3}Sub-Sample Analysis}{6}% 
